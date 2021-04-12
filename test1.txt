@@ -1,10 +1,9 @@
 New file.
 
 #
-# 
 # New changes today.
 #
+# Next changes today 1.  
 #
-# Next changes today.  
-#
+# Next changes today 2.
 
